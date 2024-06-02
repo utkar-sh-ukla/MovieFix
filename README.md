@@ -59,6 +59,13 @@ npm install
    npx react-native run-android
    ```
 
+## Troubleshooting
+
+If no movies are showing in the app after running the server, it may be due to restrictions on the (TMDb) API for your location. If you encounter this issue, consider trying the following:
+
+- **Switch DNS Servers**: Sometimes, switching your DNS servers can help bypass restrictions.
+- **Use a VPN**: Utilizing a Virtual Private Network (VPN) can often bypass regional restrictions and allow access to TMDb.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
